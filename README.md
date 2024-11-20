@@ -14,3 +14,5 @@ https://github.com/Tharun2392/23CSBTB39-40/blob/main/Assignment_6(AIML).ipynb
 
 https://github.com/Tharun2392/23CSBTB39-40/blob/main/Assignment_7(AIML).ipynb
 
+https://github.com/Tharun2392/23CSBTB39-40/blob/main/Assignment_8.ipynb
+
